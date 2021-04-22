@@ -1,21 +1,73 @@
 export default [
   {
     title:
-      "Como começei a programar / Porque criamos a Rocketseat / Nossa Stack",
-    artist: "Diego Fernandes",
-    cover: "como-comecei.jpg",
-    file: "como-comecei.mp3",
+      "All We Know",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "All_We_Know.mp3",
   },
-  {
-    title: "5 dicas para uma carreira sólida como programador",
-    artist: "Diego Fernandes",
-    cover: "5-dicas-para-uma-carreira-solida-como-programador.jpg",
-    file: "5-dicas-para-uma-carreira-solida-como-programador.mp3",
+      {
+    title:
+      "Brighter",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Brighter.mp3",
   },
-  {
-    title: "Júnior Pleno ou Sênior, qual a diferença?",
-    artist: "Diego Fernandes",
-    cover: "junior-pleno-ou-senior-qual-a-diferenca.jpg",
-    file: "junior-pleno-ou-senior-qual-a-diferenca.mp3",
+  
+    {
+    title:
+      "Conspiracy",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Conspiracy.mp3",
+  },
+    {
+    title:
+      "Emergency",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Emergency.mp3",
+  },
+    {
+    title:
+      "Franklin",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Franklin.mp3",
+  },
+    {
+    title:
+      "Here_We_Go_Again",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Here_We_Go_Again.mp3",
+  },
+    {
+    title:
+      "My_Heart",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "My_Heart.mp3",
+  },
+    {
+    title:
+      "Never_Let_This_Go",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Never_Let_This_Go.mp3",
+  },
+    {
+    title:
+      "Pressure",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Pressure.mp3",
+  },
+    {
+    title:
+      "Whoa",
+    artist: "Paramore",
+    cover: "allweknowisfalling.jpg",
+    file: "Whoa.mp3",
   },
 ];
